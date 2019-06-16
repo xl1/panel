@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.app {
+    display: grid;
+    height: 100%;
+}
+.header {
+    background: tomato;
+}
+.side {
+    background: skyblue;
+}
+.content {
+    background: peachpuff;
+}
+.footer {
+    background: salmon;
+}
